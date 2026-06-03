@@ -14,8 +14,6 @@ builder.Services.AddSingleton<PlayerService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.WebHost.UseUrls("http://0.0.0.0:10000");
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
