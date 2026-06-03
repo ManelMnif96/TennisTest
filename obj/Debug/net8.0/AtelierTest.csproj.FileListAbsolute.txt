@@ -32,3 +32,4 @@ C:\Users\Dell\AtelierTest\obj\Debug\net8.0\AtelierTest.pdb
 C:\Users\Dell\AtelierTest\obj\Debug\net8.0\AtelierTest.genruntimeconfig.cache
 C:\Users\Dell\AtelierTest\obj\Debug\net8.0\ref\AtelierTest.dll
 C:\Users\Dell\AtelierTest\bin\Debug\net8.0\Data\headtohead.json
+C:\Users\Dell\AtelierTest\obj\Debug\net8.0\AtelierTest.sourcelink.json
